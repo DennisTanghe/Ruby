@@ -15,3 +15,5 @@ littleCalc
 d = Dog.new('Labrador','Tony')
 
 d.bark
+
+d.display
